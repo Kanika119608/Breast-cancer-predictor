@@ -44,7 +44,3 @@ We'll aim to tune parameters of the SVM Classification model using scikit-learn.
 
 🛠️ **Project maintained by Kanika Chaudhary**
 
-### Updated Function Names:
-- `load_breast_cancer_data_by_kanika()`
-- `clean_and_prepare_data_by_kanika()`
-- `plot_diagnosis_distribution_by_kanika()`
